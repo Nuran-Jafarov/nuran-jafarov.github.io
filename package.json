@@ -1,6 +1,7 @@
 {
   "name": "nuran-jafarov.github.io",
   "version": "0.0.0",
+  "homepage": "https://nuran-jafarov.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
